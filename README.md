@@ -57,9 +57,10 @@ python -m PyInstaller RcloneLink.spec
 ```
 
 这将在 `dist` 目录中生成可执行文件。
+
 ## 致谢
-    *   [Rclone](https://rclone.org/): 一个用于管理云存储文件的命令行程序.
-    *   [WinFsp](https://winfsp.dev/): 一款Windows文件系统依赖。
+*   [Rclone](https://rclone.org/): 一个用于管理云存储文件的命令行程序.
+*   [WinFsp](https://winfsp.dev/): 一款Windows文件系统依赖。
 
 
 ## 许可证
