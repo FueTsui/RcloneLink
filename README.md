@@ -27,7 +27,7 @@ RcloneLink 使用Rclone及WinFsp，默认内置也可以自行安装：
 
 **使用预构建的可执行文件 (Windows)**：
 
-从 [发布页面](https://github.com/FueTsui/RcloneLink/releases/tag/v1.0.0) 下载最新的 `RcloneLink_Setup_X.X.X.exe` 并运行安装程序。这将安装 RcloneLink 及其依赖项。
+从 [发布页面](https://github.com/FueTsui/RcloneLink/releases/tag/v1.0.0) 下载最新的 `RcloneLink_vX.X.X_Setup.exe` 并运行安装程序。这将安装 RcloneLink 及其依赖项。
 
 ## 使用方法
 
