@@ -62,6 +62,9 @@ python -m PyInstaller RcloneLink.spec
 *   [Rclone](https://rclone.org/): 一个用于管理云存储文件的命令行程序.
 *   [WinFsp](https://winfsp.dev/): 一款Windows文件系统依赖。
 
+**摸鱼搭子**：*QQ群*  [175332502](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=5PkXysHbDS-RVvXJO_AE7OkFEZrIaFYN&authKey=OZ7pUAm4Ek2ZUKmurSP5v2w9lcbQN2%2BnoiGdIJzM0ZT5QsFkrV0CICvkw9C7qIWS&noverify=0&group_code=175332502)	
+
+<img width="300" height="300" alt="pay" src="https://github.com/user-attachments/assets/c42d823d-3165-4129-ac8f-bdffacbdc1a6" />
 
 ## 许可证
 
